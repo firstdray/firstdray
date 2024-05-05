@@ -2,6 +2,12 @@
     <h1>Hi 👋, I'm Danila</h1>
     <h3>Frontend || Blockchain developer<h3>
 </div>
+
+<div id="socials" align="center">
+<a href="https://t.me/firstdray">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
 <!--
 **firstdray/firstdray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
