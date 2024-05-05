@@ -23,3 +23,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" title="solidity" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" title="hardhat" width="40" height="40"/>&nbsp;
+
+### My stat
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firstdray&theme=2077"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firstdray&theme=2077"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firstdray&theme=2077"/>
+</div>
