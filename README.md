@@ -11,6 +11,7 @@
 
 
 ### About me
-- I am currently working in the field of **Frontend** || **Backend** || **Blockchain**
+- 🔭 I am currently working in the field of **Frontend** || **Backend** || **Blockchain**
+- 📫 Reach me by [email](mailto:firstdrat@gmail.com)
 
 
