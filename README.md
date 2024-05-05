@@ -9,9 +9,10 @@
 </a>
 </div>
 
-<div>
+-?
 ### About me
-    - 🔭I am currently working in the field of **Frontend** || **Backend** || **Blockchain**
+    - 🔭 I am currently working in the field of **Frontend** || **Backend** || **Blockchain**
     - 
 
-</div>
+
+?-
