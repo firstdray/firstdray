@@ -12,7 +12,7 @@
 
 ### About me
 - 🔭 I am currently working in the field of **Backend** || **Blockchain**
-- 📫 Reach me by [kl3vtsov@mail.ru](mailto:kl3vtsov@mail.ru)
+- 📫 Reach me by [firstdray@gmail.com](mailto:firstdray@gmail.com)
 
 ### Langauge an tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
