@@ -4,7 +4,9 @@
 
 ### Backend Engineer
 
-Building scalable backend systems with **Node.js**, **NestJS**, **PostgreSQL**, **Redis**, **RabbitMQ** and currently learning **Go**.
+Backend developer focused on building reliable web services with **Node.js**, **NestJS**, **PostgreSQL**, **Redis** and **RabbitMQ**.
+
+Currently learning **Go** and distributed systems.
 
 <a href="https://t.me/firstdray">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -19,25 +21,25 @@ Building scalable backend systems with **Node.js**, **NestJS**, **PostgreSQL**, 
 
 # 👨‍💻 About Me
 
-Backend Engineer with commercial experience developing web applications and backend services.
+I'm a Backend Engineer with commercial experience developing REST APIs, backend services and integrations.
 
-I enjoy solving architectural problems, designing scalable systems and writing clean, maintainable code.
+I enjoy software architecture, backend development and database design. I prefer understanding **why** a particular solution fits the problem instead of simply following trends.
 
-Currently I'm expanding my backend expertise by learning **Go**, distributed systems and high-performance application design.
+Currently expanding my expertise in **Go**, concurrency and distributed systems.
 
 ---
 
 # 🏗 Engineering Philosophy
 
-I believe good software starts with good architecture.
+I believe architecture should solve business problems rather than introduce unnecessary complexity.
 
-When designing systems I focus on:
+When designing software I focus on:
 
-- Maintainability
-- Simplicity
 - Clear responsibilities
-- Scalability only when it is really needed
-- Pragmatic engineering decisions
+- Maintainability
+- Readability
+- Simplicity over premature optimization
+- Scalability when it's actually needed
 
 ---
 
@@ -50,7 +52,7 @@ When designing systems I focus on:
 - Express
 - TypeScript
 - JavaScript
-- Go (Learning)
+- Go *(Learning)*
 
 ### Databases
 
@@ -74,7 +76,7 @@ When designing systems I focus on:
 - REST API
 - JWT
 - Git
-- Swagger
+- Swagger / OpenAPI
 - Prisma
 - TypeORM
 
@@ -84,25 +86,25 @@ When designing systems I focus on:
 
 ## 🎓 Student Digital Portfolio
 
-Graduation project built as a **Modular Monolith**.
+Graduation project designed as a **Modular Monolith**.
 
-### Features
+### Highlights
 
 - JWT Authentication
-- Role System
-- Student Portfolio
-- Skills Confirmation
-- Repository Pattern
+- Role-Based Access Control (RBAC)
+- Student Portfolio System
+- Skills Verification Workflow
 - Relational Database Design
-- Clean Architecture principles
+- Repository Pattern
+- Modular Architecture
 
 ---
 
-## 💳 Payment Microservice
+## 💳 Payment Service
 
-Backend payment service supporting transaction processing, queue-based communication and scalable architecture.
+Backend payment service focused on transaction processing and reliable communication between services.
 
-Stack:
+**Tech Stack**
 
 - NestJS
 - PostgreSQL
@@ -113,14 +115,14 @@ Stack:
 
 ## ⚙️ Backend API
 
-Production backend services with focus on performance, architecture and maintainability.
+REST API for production applications with emphasis on maintainability, performance and clean architecture.
 
 ---
 
 # 📚 Currently Learning
 
 - Go
-- Concurrency
+- Goroutines & Channels
 - Distributed Systems
 - Microservices
-- High Load Architecture
+- High-Load System Design
