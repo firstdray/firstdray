@@ -1,30 +1,126 @@
-<div id="header" align="center">
-    <h1>Hi 👋, I'm Danila</h1>
-    <h3>Backend || Blockchain developer<h3>
-</div>
+<div align="center">
 
-<div id="socials" align="center">
+# Hi 👋 I'm Danila
+
+### Backend Engineer
+
+Building scalable backend systems with **Node.js**, **NestJS**, **PostgreSQL**, **Redis**, **RabbitMQ** and currently learning **Go**.
+
 <a href="https://t.me/firstdray">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<a href="mailto:firstdray@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
-### About me
-- 🔭 I am currently working in the field of **Backend** || **Blockchain**
-- 📫 Reach me by [firstdray@gmail.com](mailto:firstdray@gmail.com)
+# 👨‍💻 About Me
 
-### Langauge an tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" title="solidity" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" title="hardhat" width="40" height="40"/>&nbsp;
+Backend Engineer with commercial experience developing web applications and backend services.
 
+I enjoy solving architectural problems, designing scalable systems and writing clean, maintainable code.
 
-### My stat
-<div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firstdray&theme=2077"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firstdray&theme=2077"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firstdray&theme=2077"/>
-</div>
+Currently I'm expanding my backend expertise by learning **Go**, distributed systems and high-performance application design.
+
+---
+
+# 🏗 Engineering Philosophy
+
+I believe good software starts with good architecture.
+
+When designing systems I focus on:
+
+- Maintainability
+- Simplicity
+- Clear responsibilities
+- Scalability only when it is really needed
+- Pragmatic engineering decisions
+
+---
+
+# 🚀 Tech Stack
+
+### Backend
+
+- Node.js
+- NestJS
+- Express
+- TypeScript
+- JavaScript
+- Go (Learning)
+
+### Databases
+
+- PostgreSQL
+- Redis
+- MongoDB
+
+### Messaging
+
+- RabbitMQ
+
+### DevOps
+
+- Docker
+- Docker Compose
+- Linux
+- Nginx
+
+### Other
+
+- REST API
+- JWT
+- Git
+- Swagger
+- Prisma
+- TypeORM
+
+---
+
+# 📌 Featured Projects
+
+## 🎓 Student Digital Portfolio
+
+Graduation project built as a **Modular Monolith**.
+
+### Features
+
+- JWT Authentication
+- Role System
+- Student Portfolio
+- Skills Confirmation
+- Repository Pattern
+- Relational Database Design
+- Clean Architecture principles
+
+---
+
+## 💳 Payment Microservice
+
+Backend payment service supporting transaction processing, queue-based communication and scalable architecture.
+
+Stack:
+
+- NestJS
+- PostgreSQL
+- RabbitMQ
+- Redis
+
+---
+
+## ⚙️ Backend API
+
+Production backend services with focus on performance, architecture and maintainability.
+
+---
+
+# 📚 Currently Learning
+
+- Go
+- Concurrency
+- Distributed Systems
+- Microservices
+- High Load Architecture
