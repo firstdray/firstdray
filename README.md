@@ -117,13 +117,3 @@ Backend payment service focused on transaction processing and reliable communica
 ## ⚙️ Backend API
 
 REST API for production applications with emphasis on maintainability, performance and clean architecture.
-
----
-
-# 📚 Currently Learning
-
-- Go
-- Goroutines & Channels
-- Distributed Systems
-- Microservices
-- High-Load System Design
