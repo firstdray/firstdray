@@ -25,7 +25,7 @@ I'm a Backend Engineer with commercial experience developing REST APIs, backend 
 
 I enjoy software architecture, backend development and database design. I prefer understanding **why** a particular solution fits the problem instead of simply following trends.
 
-Currently expanding my expertise in **Go**, concurrency and distributed systems.
+Currently expanding my expertise in **Go** & **Python**, concurrency and distributed systems.
 
 ---
 
