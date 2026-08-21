@@ -53,6 +53,7 @@ When designing software I focus on:
 - TypeScript
 - JavaScript
 - Go *(Learning)*
+- Python *(Learning)*
 
 ### Databases
 
